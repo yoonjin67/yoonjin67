@@ -6,7 +6,7 @@
 - 📫 How to reach me: By Mail, n7o3bangz@mozmail.com to get my Cell-Phone Number
 - 😄 Pronouns: He/His. BUT When I get lower I don't go like MEN'S DO-List. I am weak, so not so masculine.
 - Where I become human: Daegu, Gyeongsang Province. In Joseon Kingdom, it was formerly Left-Gyeongsang Province.
-- ⚡ Fun fact: I used to have some severe health problems, but I am on recovery. It gets better so fast.
+- ⚡ Fun fact: Currently I sanitize my data within size comparison. Contiki-NG Subsystem on linux is running at my LG Gram Laptop.
 
 <!---
 cholmaster/cholmaster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
