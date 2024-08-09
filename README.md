@@ -1,5 +1,5 @@
 # - 👋 Hi, I’m @cholmaster, aka Lee Yunjin.
-## I am with Gyeongju Lee Ikje Clan, thanks to ROOTS.
+## Who would gonna listen to others? Maybe everyone stucks into his own soul.
 - 👀 I’m interested in Kernel Area Modification, Cloud Computing, Embedded Linux System.
 - 🌱 I’m currently learning Kernel Structure
 ### - 💞️ I’m looking to collaborate with Moral basis, I don't like to be rude each other.
