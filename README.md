@@ -1,6 +1,6 @@
 # - 👋 Hi, I’m @yoonjin67, aka Lee Yunjin.
-## Who would gonna listen to others? Maybe everyone stucks into his own soul.
-- 👀 I’m interested in Kernel Area Modification, Cloud Computing, Embedded Linux System.
+## Ordinary College student....
+- 👀 I’m interested in Device Driver, Cloud Computing, Embedded Linux System.
 - 🌱 I’m currently learning Kernel Structure
 ### - 💞️ I’m looking to collaborate with Moral basis, I don't like to be rude each other.
 - 📫 How to reach me: By Mail, n7o3bangz@mozmail.com.
