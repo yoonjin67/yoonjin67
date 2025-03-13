@@ -1,6 +1,6 @@
 # - 👋 Hi, I’m @yoonjin67, aka Lee Yunjin.
 ## Ordinary College student....
-- 👀 I’m interested in Desktop App Programming, Low-level-to-Userspace interaction(simple), Go language package development(Tcl/Tk 9.0)
+- 👀 I’m interested in Unix/Linux System Management, Automation, Docker&Incus, Go language package development(Tcl/Tk 9.0)
 - 🌱 I’m currently learning Java, C#
 ### - 💞️ I’m looking to collaborate with Moral basis, I don't like to be rude each other.
 - 📫 How to reach me: gg582@naver.com or gzblues61@gmail.com
