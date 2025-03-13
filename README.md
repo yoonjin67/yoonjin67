@@ -2,7 +2,7 @@
 ## Ordinary College student....
 - 👀 I’m interested in Unix/Linux System Management, Automation, Docker&Incus, Go language package development(Tcl/Tk 9.0)
 - 🌱 I’m currently learning Java, C#
-### - 💞️ I’m looking to collaborate with Moral basis, I don't like to be rude each other.
+### - 💞️ I love music. Listening to vinyl records, is quite nonsense to developer. However, I love those analog records. RCA Victor "New Orthophonic", LIVING STEREO. Those two were satisfactory.
 - 📫 How to reach me: gg582@naver.com or gzblues61@gmail.com
 - 😄 Pronouns: He/His. But not so masculine...
 - ⚡ Fun fact: I am ignorant guy. I could not understand modern philosophy. Understanding modernized justification is hard!
