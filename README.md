@@ -8,6 +8,6 @@
 - ⚡ Fun fact: I am ignorant guy. I could not understand modern philosophy. Understanding modernized justification is hard!
 
 <!---
-cholmaster/cholmaster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+yoonjin67/yoonjin67 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
