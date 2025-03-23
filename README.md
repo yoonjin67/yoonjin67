@@ -1,6 +1,6 @@
 # Hi, I'm @yoonjin67 (Lee Yunjin)
 
-[![solved.ac](https://solvedac.junah.dev/v1/generate_badge?handle=yoonjin67)](https://solved.ac/profile/yoonjin67/arena)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=yoonjin67)](https://solved.ac/yoonjin67)
 
 ## About Me
 
