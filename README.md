@@ -41,4 +41,4 @@ I find modern philosophy challenging to grasp.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yoonjin67&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonjin67&layout=compact&theme=dark&exclude_repo=BaekjoonProblemSolvingCollections)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonjin67&layout=compact&theme=dark&exclude_repo=BaekjoonProblemSolvingCollections,linux-grate-10percent-overclock-test)](https://github.com/anuraghazra/github-readme-stats)
