@@ -1,44 +1,87 @@
+
 # Hi, I'm @yoonjin67 (Lee Yunjin)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=yoonjin67)](https://solved.ac/yoonjin67)
 [![github stats](https://github-readme-stats.vercel.app/api?username=yoonjin67)](https://github.com/anuraghazra/github-readme-stats)
 
-
 ## About Me
 
-I'm a college student with interests in Unix/Linux system management, automation scripts, Docker & Incus, and Go language package development (Tcl/Tk 9.0). Currently learning Java and C#.
+I'm a college student with strong interests in Unix/Linux system management, automation scripting, container orchestration, and Go-based development.  
+Currently learning Java and C# to expand my backend capabilities.
 
-### Interests
+---
+
+## 🧩 Key Projects
+
+### 🔧 `linuxVirtualization`
+A comprehensive Linux container manager using KivyMD for GUI, Go-based server daemon, and shell/Python automation for container lifecycle and permission management.  
+AES encryption and bcrypt hashing ensure secure communication.  
+The project includes a GUI that interacts with Incus containers and supports various container operations.
+
+**Core Features:**
+- **GUI Management** with KivyMD (`MainScreen`, `ManageScreen`, etc.)
+- **Secure Server Daemon** in Go (HTTPS, AES, bcrypt)
+- **Shell-based system hooks**: `kill.sh`, `server_reload.sh`, `make_base_images.sh` etc.
+- **Container Functions**: Create, import, start/stop, delete, and monitor containers
+
+**Lines of Code (cloc summary):**
+```
+Go: 1185 LOC  
+Python: 343 LOC  
+Shell: 337 LOC  
+Total: 2271 LOC (excluding markdown and comments)
+```
+
+---
+
+### 🚘 `RemoteCarFromMonet`
+A Kubernetes-integrated system to remotely control a physical car using simulated feedback from a virtual car.  
+Developed primarily in C, Go, and Shell. Backend and device control were fully implemented by me, based on lab collaboration.
+
+**Project Structure:**
+- Physical car → Sends data  
+- Virtual car → Simulates action  
+- Result sent back to physical car for execution
+
+**Implemented Components:**
+- **Motor Driver (C)** via IOCTL and I2C  
+- **Tunneling device driver** as a doubly linked list  
+- **K8s deployment structure** and driver pod management (Go + Shell)  
+- **Simulation runner and sensor interface**
+
+**Lines of Code (cloc summary):**
+```
+C: 2730 LOC  
+Go: 811 LOC  
+Shell: 296 LOC  
+Total: 4424 LOC (excluding HTML/JS and removed frontend code)
+```
+
+---
+
+## 🧠 Interests
 
 - Unix/Linux System Management
-- Automation Scripts
-- Docker & Incus
-- Go Language (Tcl/Tk 9.0)
-- Java (Learning)
-- C# (Learning)
+- Container Orchestration (Docker, Incus, Kubernetes, Ansible)
+- Go Language (Tcl/Tk 9.0 GUI)
+- Shell & Python Automation
+- Java, C# (Learning)
 
-### Personal Note
+---
 
-I enjoy listening to vinyl records in my free time.
+## 📫 Contact
 
-### Contact
+- Email: [gg582@naver.com](mailto:gg582@naver.com) / [gzblues61@gmail.com](mailto:gzblues61@gmail.com)
 
-- Email: [gg582@naver.com](mailto:gg582@naver.com) or [gzblues61@gmail.com](mailto:gzblues61@gmail.com)
+---
 
-### Pronouns
+## 🎧 Personal Note
 
-- He/His
+I enjoy vinyl records and niche experimental music in my spare time.
 
-### Fun Fact
+---
 
-I find modern philosophy challenging to grasp.
+## 🔗 Stats & Profiles
 
-### Links
-
-- [Solved.ac Profile](https://solved.ac/profile/yoonjin67/arena)
-
-### GitHub Stats
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yoonjin67&theme=dark)](https://git.io/streak-stats)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yoonjin67&theme=dark)](https://git.io/streak-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonjin67&layout=compact&theme=dark&exclude_repo=BaekjoonProblemSolvingCollections,linux-grate-10percent-overclock-test,RIOTOS-car,DOOM)](https://github.com/anuraghazra/github-readme-stats)
