@@ -67,7 +67,7 @@ Total: 4424 LOC (excluding HTML/JS and removed frontend code)
 - Shell & Python Automation
 - Java, C# (Learning)
 ## 🧠 Research Assistant Certificates
-[!Researches](./certs.png)
+![Researches](./certs.png)
 
 ---
 
