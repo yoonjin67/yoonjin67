@@ -66,6 +66,8 @@ Total: 4424 LOC (excluding HTML/JS and removed frontend code)
 - Go Language (Tcl/Tk 9.0 GUI)
 - Shell & Python Automation
 - Java, C# (Learning)
+## 🧠 Research Assistant Certificates
+[!Researches](./certs.png)
 
 ---
 
@@ -74,6 +76,7 @@ Total: 4424 LOC (excluding HTML/JS and removed frontend code)
 - Email: [gg582@naver.com](mailto:gg582@naver.com) / [gzblues61@gmail.com](mailto:gzblues61@gmail.com)
 
 ---
+
 
 ## 🎧 Personal Note
 
