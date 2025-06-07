@@ -72,6 +72,7 @@ Total: 4424 LOC (excluding HTML/JS and removed frontend code)
 The award was focused on presentation.
 Plus, there can be some problem while uploading collaborated code into this.
 So, I attach the actual award.
+
 ![Awards](./award.png)
 
 ---
