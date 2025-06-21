@@ -11,52 +11,66 @@ Currently learning Java and C# to expand my backend capabilities.
 
 ---
 
+## 💻 Skills
+| Language         | Level       | Experience       |
+|------------------|-------------|------------------|
+| C, C++           | Advanced    | Simulation, Drivers |
+| Go               | Intermediate| GUI, Daemon         |
+| Python           | Intermediate| Visualization       |
+| Kubernetes       | Intermediate| Cluster Setup       |
+| Ansible          | Beginner    | IaC                 |
+| Helm             | Intermediate|   Deployment        |
+----------------------------------------------------
+
 ## 🧩 Key Projects
 
-### 🔧 `linuxVirtualization`
-A comprehensive Linux container manager using KivyMD for GUI, Go-based server daemon, and shell/Python automation for container lifecycle and permission management.  
-AES encryption and bcrypt hashing ensure secure communication.  
-The project includes a GUI that interacts with Incus containers and supports various container operations.
+### 🚗 RemoteCarFromMonet
+- **Description**: Kubernetes-integrated remote car control system with C-based motor drivers and Go-based K8s deployment.
+- **Tech Stack**: C, Go, Shell, Kubernetes
+- **Lines of Code**: 4424 LOC
+- **Highlight**: Simulates virtual car feedback and executes on physical hardware.
 
-**Core Features:**
-- **GUI Management** with KivyMD (`MainScreen`, `ManageScreen`, etc.)
-- **Secure Server Daemon** in Go (HTTPS, AES, bcrypt)
-- **Shell-based system hooks**: `kill.sh`, `server_reload.sh`, `make_base_images.sh` etc.
-- **Container Functions**: Create, import, start/stop, delete, and monitor containers
+### 🖥️ linuxVirtualization
+- **Description**: Linux container manager with KivyMD GUI and Go-based secure daemon.
+- **Tech Stack**: Go, Python, Shell, KivyMD, AES, bcrypt
+- **Lines of Code**: 2271 LOC
+- **Highlight**: Supports container lifecycle management with encrypted communication.
 
-**Lines of Code (cloc summary):**
-```
-Go: 1185 LOC  
-Python: 343 LOC  
-Shell: 337 LOC  
-Total: 2271 LOC (excluding markdown and comments)
-```
+### 📊 Political Opinion Dynamics Simulator
+- **Description**: Simulates political opinion spread across social strata using C (core logic) and Python (visualization).
+- **Tech Stack**: C, Python
+- **Highlight**: Models polarization and convergence, reflecting social theories like Social Identity Theory.
 
----
+### 💻 NatPP (Nat++)
+- **Description**: A lightweight DSL transpiled into C/C++ using regex, offering natural language constructs.
+- **Tech Stack**: C/C++, Bash
+- **Highlight**: Enhances code readability with keywords like `Then` for `{` and `Is` for `=`.
+  ```dsl
+ImportCode iostream
+ImportCode map
+ImportCode string
 
-### 🚘 `RemoteCarFromMonet`
-A Kubernetes-integrated system to remotely control a physical car using simulated feedback from a virtual car.  
-Developed primarily in C, Go, and Shell. Backend and device control were fully implemented by me, based on lab collaboration.
+int main()
+Then
+    map From std <string From std, int> dict;
+    
+    dict["apple"] Is 5;
+    dict["banana"] Is 3;
+    
+    ForEach(auto pair In dict)
+    Then
+        cout From std << pair.first << " " << pair.second << endl From std;
+        FormattedPrint("1*4 = %d\n", 1 MoveLeft 2);
+    Okay
 
-**Project Structure:**
-- Physical car → Sends data  
-- Virtual car → Simulates action  
-- Result sent back to physical car for execution
-
-**Implemented Components:**
-- **Motor Driver (C)** via IOCTL and I2C  
-- **Tunneling device driver** as a doubly linked list  
-- **K8s deployment structure** and driver pod management (Go + Shell)  
-- **Simulation runner and sensor interface**
-
-**Lines of Code (cloc summary):**
-```
-C: 2730 LOC  
-Go: 811 LOC  
-Shell: 296 LOC  
-Total: 4424 LOC (excluding HTML/JS and removed frontend code)
+Okay
 ```
 
+
+### 🎮 Arkanoid-based Oriental Dotted Graphic Game
+- **Description**: A 2D shooting game built with Unity and C#, featuring manual y-axis paddle control and oriental aesthetics.
+- **Tech Stack**: Unity, C#
+- **Highlight**: Includes block HP mechanics and ChatGPT-generated backgrounds, submitted to Daegu University’s Game Programming Basics lecture.
 
 ---
 
