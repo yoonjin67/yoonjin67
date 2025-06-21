@@ -74,6 +74,10 @@ Plus, there can be some problem while uploading collaborated code into this.
 So, I attach the actual award.
 
 ![Awards](./award.png)
+![IndustrialEngineer](./industrial_engineer.png)
+This needs some comments. I took 'Industrial Engineer' examination 's first screening, as I were not an undergradute student.
+And I took a final test in 2025. If I can get enough time to get 'Engineer' examination, which is one step higher than 'Industrial Engineer', I have courage to take.
+First screening test's pass rate was 51%. Final test's pass wate was 49.64%, which is quite easier than 2023-2024's test.
 
 ---
 
